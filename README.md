@@ -1,7 +1,10 @@
 # Hello 👋
 
-### Who I am ?
+### About me
+###### Who I am ?
 >My name is Martin, Im 14 years old and at present i'm working from Spain, Im a Software Engineering **student** and aerospace and technology enthusiast
+###### What what am i studying ?
+>As I mentioned before im currently studying different programming languages how can they be python, html/ccs, js, java etc... Also im studying pentesting and cybersecurity in general. *(I am currently learning everything as a freelancer)*
 
 <!--
 **lowg0d/lowg0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
