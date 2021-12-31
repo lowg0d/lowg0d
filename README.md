@@ -12,8 +12,8 @@
 ### Contact📲
 > * All of my socials are resume in my [website](https://www.lowg0d.me/). ❌**WEB ACTUALLY NOT WORKING**
 > * anyway here they are :
-🟪* Discord: **lowgod#9999**
-⬜️* Mail: **Lowgod_@hotmail.com**
+* 🟪Discord: **lowgod#9999**
+* ⬜️Mail: **Lowgod_@hotmail.com**
 
 <!--
 🔥 Se vienen cositas 🔥
