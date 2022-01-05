@@ -10,7 +10,7 @@
 > * Also im working on lego robotics project **[Lego Fist Lego Leage](https://www.firstlegoleague.org/)** with **[Elburgo Tecno Club](http://www.tecnoclub.es/)** team.
 
 ### Contact📲
-> * All of my socials are resume in my [website](https://www.lowg0d.me/). ❌**WEB ACTUALLY NOT WORKING**
+> * All of my socials are resume in my [website](https://l0wgod.xyz/). ❌**WEB ACTUALLY NOT WORKING**
 
 ###### Anyway here they are :
 * 🟪Discord: **lowgod#9999**
