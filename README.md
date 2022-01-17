@@ -20,11 +20,9 @@
 # GitHub Stats 📊
 ![](https://komarev.com/ghpvc/?username=lowg0d&color=blueviolet)
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&theme=radical">         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&theme=tokyonight">         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&layout=tokyonight">
 
 
 <!--
 🔥 Se vienen cositas 🔥
-
-Yes, I know what you are thinking TOO MUCH ROCKETS ON THIS ACCOUNT!!! well what does it matter
 -->
