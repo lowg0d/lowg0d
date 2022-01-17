@@ -6,7 +6,7 @@
 ###### What am I learning?
 > * As I mentioned before im currently studying different programming languages how can they be python, html/ccs, js, java etc... Also im studying pentesting, cybersecurity in general and AI stuff. *(I am* ***currently*** *learning everything as a*  **freelancer** *)*.
 ###### What am I working on?
-> * I am currently working on my own rocket model company **[StarlabRPL](https://starlabrpl.tk/)**. ❌**WEB ACTUALLY UNDER DEVELOPMENT**
+> * I am currently working on my own rocket model company **[StarlabRPL](https://starlabrpl.tk/)**. **WEB ACTUALLY UNDER DEVELOPMENT**
 > * Also im working on lego robotics project **[Lego Fist Lego Leage](https://www.firstlegoleague.org/)** with **[Elburgo Tecno Club](http://www.tecnoclub.es/)** team.
 
 ### Contact📲
@@ -20,7 +20,7 @@
 # GitHub Stats 📊
 ![](https://komarev.com/ghpvc/?username=lowg0d&color=blueviolet)
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&text_color=fffff&border_color=fffff&bg_color=0a0c10">         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&layout=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&show_owner=true&border_color=fffff&bg_color=0a0c10">         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&layout=tokyonight">
 
 
 <!--
