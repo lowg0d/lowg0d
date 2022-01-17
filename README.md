@@ -20,7 +20,7 @@
 # GitHub Stats 📊
 ![](https://komarev.com/ghpvc/?username=lowg0d&color=blueviolet)
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&border_color=fffff&bg_color=0a0c10">         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&layout=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&border_color=fffff&bg_color=0a0c10&text_color=fffff">         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&layout=tokyonight">
 
 
 <!--
