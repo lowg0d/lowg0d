@@ -15,6 +15,7 @@
 ###### Anyway here they are :
 * 🟪Discord: **lowgod#9999**
 * ⬜️Mail: **Lowgod_@hotmail.com**
+* 🟧GitLab: **[GitLab](https://gitlab.com/lowg0d)**
 
 
 # GitHub Stats 📊
