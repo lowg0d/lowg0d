@@ -13,11 +13,9 @@
 ###### Website
 > * All of my socials are resume in my [website](https://l0wgod.xyz/). 
 ###### Anyway here they are :
-* 🟪Discord: **lowgod#9999**
 * ⬜️Mail: **Lowgod_@hotmail.com**
 * 🟧GitLab: **[GitLab](https://gitlab.com/lowg0d)**
-
-<img src="https://discord.c99.nl/widget/theme-5/814476198733152266.png">
+* 🟪 <img src="https://discord.c99.nl/widget/theme-2/814476198733152266.png">
 
 # GitHub Stats 📊
 ![](https://komarev.com/ghpvc/?username=lowg0d&color=blue)
