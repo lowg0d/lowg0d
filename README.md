@@ -18,7 +18,7 @@
 * 🟧GitLab: **[GitLab](https://gitlab.com/lowg0d)**
 
 <p align="left">
-  <img src="https://discord.c99.nl/widget/theme-4/814476198733152266.png" />
+  <img src="https://discord.c99.nl/widget/theme-1/814476198733152266.png" />
 </p>
 
 
