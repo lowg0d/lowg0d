@@ -15,7 +15,8 @@
 ###### Anyway here they are :
 * ⬜️Mail: **Lowgod_@hotmail.com**
 * 🟧GitLab: **[GitLab](https://gitlab.com/lowg0d)**
-<img src="https://discord.c99.nl/widget/theme-1/814476198733152266.png"> 
+<a href="https://discord.com" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/814476198733152266.png"></a>
+
 
 # GitHub Stats 📊
 ![](https://komarev.com/ghpvc/?username=lowg0d&color=blue)
