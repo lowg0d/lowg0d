@@ -14,7 +14,7 @@
 > * All of my socials are resume in my [website](https://l0wgod.xyz/). 
 ###### Anyway here they are :
 * ⬜️Mail: **Lowgod_@hotmail.com**
-* 🟧**[GitLab](https://gitlab.com/lowg0d)**
+* 🟧[GitLab](https://gitlab.com/lowg0d)
 <a href="https://starlabrpl.tk" target="_BLANK">
   <img src="https://discord.c99.nl/widget/theme-1/814476198733152266.png">
 </a>
