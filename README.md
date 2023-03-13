@@ -2,12 +2,10 @@
 
 ### About me 🚀
 ###### What am I learning?
-> * As I mentioned before im currently studying different programming languages how can they be python, html/ccs, js, java etc... Also im studying pentesting, cybersecurity in general and AI stuff. *(I am* ***currently*** *learning everything as a*  **freelancer** *)*.
+> * As I mentioned before im currently studying different programming languages as python, html/ccs, js, java etc... Also some AI stuff. *(*learning everything as *  **freelancer** *)*.
 
 ### Contact📲
-###### Website
-> * All of my socials are resume in my [website](https://l0wgod.xyz/). 
-###### Anyway here they are :
+###### mail:
 * ⬜️Mail: **Lowgod_@hotmail.com**
 <a href="https://starlabrpl.tk" target="_BLANK">
   <img src="https://discord.c99.nl/widget/theme-1/814476198733152266.png">
