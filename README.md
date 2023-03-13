@@ -2,7 +2,7 @@
 
 ### About me 🚀
 ###### What am I learning?
-> * As I mentioned before im currently studying different programming languages as python, html/ccs, js, java etc... Also some AI stuff. *(*learning everything as *  **freelancer** *)*.
+> * As I mentioned before im currently studying different programming languages as python, html/ccs, js, java etc... Also some AI stuff. (learning everything as  **freelancer** *)*.
 
 ### Contact📲
 ###### mail:
