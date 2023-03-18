@@ -2,7 +2,7 @@
 
 ### About me 🚀
 #### What am I learning?
-> * As I mentioned before im currently studying different programming languages as python, c,(#,++) java etc... Also some AI stuff. (learning everything as  **freelancer** *)*.
+> * As I mentioned before im currently studying different programming languages as python, c,(#,++) java etc... Also some AI stuff.
 
 ![](https://komarev.com/ghpvc/?username=lowg0d&color=blue)
 
